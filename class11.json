@@ -1,0 +1,490 @@
+{
+    "hindi": [
+        {
+            "Biology": [
+                {
+                    "code": "khbo1",
+                    "name": "Jeev Vigyan",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo1ps.pdf",
+                    "answer": "",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo110.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo111.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo112.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo113.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo114.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo116.pdf",
+                            "16": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo117.pdf",
+                            "17": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo118.pdf",
+                            "18": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo119.pdf",
+                            "19": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo120.pdf",
+                            "20": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo121.pdf",
+                            "21": "https://github.com/NcertGo/Class11/raw/master/khbo1dd/khbo122.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Chemistry": [
+                {
+                    "code": "khch1",
+                    "name": "Rasayn Vigya Bhag 1",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch107.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/khch1dd/khch1a1.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "khch2",
+                    "name": "Rasayan Vigyan Bhag 2",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch2an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch2ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch201.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch202.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch203.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch204.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch205.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khch2dd/khch207.pdf"
+                        }
+                    ]
+                }
+            ],
+            "English": [
+                {
+                    "code": "kesp1",
+                    "name": "Snapshot",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp108.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "kehb1",
+                    "name": "Hornbil",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb103.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb104.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb107.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb108.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb111.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb112.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb113.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb114.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb115.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb116.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Hindi": [
+                {
+                    "code": "khvt1",
+                    "name": "Vitan",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt104.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "khar1",
+                    "name": "Aroh",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar110.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar111.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar112.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar113.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar114.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar115.pdf",
+                            "16": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar116.pdf",
+                            "17": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar117.pdf",
+                            "18": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar119.pdf",
+                            "19": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar120.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Sanskrit": [
+                {
+                    "code": "",
+                    "name": "",
+                    "prelims": "",
+                    "answer": "",
+                    "chapters": []
+                }
+            ],
+            "Physics": [
+                {
+                    "code": "khph2",
+                    "name": "Bhautik Vigya Part 2",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph2an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph2ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph201.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph202.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph203.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph204.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph205.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khph2dd/khph207.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "khph1",
+                    "name": "Bhautik Vigya Part 1",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph1an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph103.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph104.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph107.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph108.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/khph1dd/khph1a1.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Maths": [
+                {
+                    "code": "khmh1",
+                    "name": "Ganit",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh1an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh111.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh112.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh113.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh114.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh115.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh116.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh1a1.pdf",
+                            "appendix2": "https://github.com/NcertGo/Class11/raw/master/khmh1dd/khmh1a2.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "english": [
+        {
+            "Biology": [
+                {
+                    "code": "kebo",
+                    "name": "Biology",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo103.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo104.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo107.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo108.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo109.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo110.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo111.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo112.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo113.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo114.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo115.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo116.pdf",
+                            "16": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo117.pdf",
+                            "17": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo118.pdf",
+                            "18": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo119.pdf",
+                            "19": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo120.pdf",
+                            "20": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo121.pdf",
+                            "21": "https://github.com/NcertGo/Class11/raw/master/kebo1dd/kebo122.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Chemistry": [
+                {
+                    "code": "kech2",
+                    "name": "Chemistry Part 2",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech2an.pdf",
+                    "index": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech2in.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech2ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech201.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech203.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech204.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech205.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech206.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kech2dd/kech207.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "kech1",
+                    "name": "Chemistry Part 1",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech1ps.pdf",
+                    "answer": "",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech107.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/kech1dd/kech1a1.pdf"
+                        }
+                    ]
+                }
+            ],
+            "English": [
+                {
+                    "code": "kesp1",
+                    "name": "Snapshot",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kesp1dd/kesp1dd/kesp108.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "kehb1",
+                    "name": "Hornbil",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb103.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb104.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb107.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb108.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb111.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb112.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb113.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb114.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb115.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/kehb1dd/kehb116.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Hindi": [
+                {
+                    "code": "khar1",
+                    "name": "Aroh",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar110.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar111.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar112.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar113.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar114.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar115.pdf",
+                            "16": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar116.pdf",
+                            "17": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar117.pdf",
+                            "18": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar119.pdf",
+                            "19": "https://github.com/NcertGo/Class11/raw/master/khar1dd/Newfolder/khar120.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "khvt",
+                    "name": "Vitan",
+                    "answer": "",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/khvt1dd/khvt104.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Sanskrit": [
+                {
+                    "code": "",
+                    "name": "",
+                    "prelims": "",
+                    "answer": "",
+                    "chapters": []
+                }
+            ],
+            "Physics": [
+                {
+                    "code": "keph1",
+                    "name": "Physics Part 1",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph1ps.pdf",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph1an.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph103.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph104.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph105.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph106.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph107.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph108.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/keph1dd/keph1a1.pdf"
+                        }
+                    ]
+                },
+                {
+                    "code": "keph2",
+                    "name": "Physics Part 2",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph2an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph2ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph202.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph203.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph204.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph205.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph206.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/keph2dd/keph207.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Computer Science": [
+                {
+                    "code": "kecs1",
+                    "name": "Computer Science",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs1ps.pdf",
+                    "answer": "",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/kecs1dd/kecs110.pdf"
+                        }
+                    ]
+                }
+            ],
+            "Maths": [
+                {
+                    "code": "kemh1",
+                    "name": "Mathematics",
+                    "answer": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh1an.pdf",
+                    "prelims": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh1ps.pdf",
+                    "chapters": [
+                        {
+                            "1": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh101.pdf",
+                            "2": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh102.pdf",
+                            "3": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh103.pdf",
+                            "4": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh104.pdf",
+                            "5": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh105.pdf",
+                            "6": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh106.pdf",
+                            "7": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh107.pdf",
+                            "8": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh108.pdf",
+                            "9": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh109.pdf",
+                            "10": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh110.pdf",
+                            "11": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh111.pdf",
+                            "12": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh113.pdf",
+                            "13": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh114.pdf",
+                            "14": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh115.pdf",
+                            "15": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh116.pdf",
+                            "appendix1": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh1a1.pdf",
+                            "appendix2": "https://github.com/NcertGo/Class11/raw/master/kemh1dd/kemh1a2.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
